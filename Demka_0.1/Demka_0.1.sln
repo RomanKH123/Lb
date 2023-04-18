@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demka_0.1", "Demka_0.1\Demka_0.1.csproj", "{2A7112EF-635D-4F9C-A9B4-82A46B9A200B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{5B77B690-FDCD-496B-B4A9-100E3D619248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7112EF-635D-4F9C-A9B4-82A46B9A200B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7112EF-635D-4F9C-A9B4-82A46B9A200B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7112EF-635D-4F9C-A9B4-82A46B9A200B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7112EF-635D-4F9C-A9B4-82A46B9A200B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B77B690-FDCD-496B-B4A9-100E3D619248}.Debug|Any CPU.ActiveCfg = Debug
+		{5B77B690-FDCD-496B-B4A9-100E3D619248}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D66D288-F262-4093-ACF2-14B8EC1B3C7C}
+	EndGlobalSection
+EndGlobal

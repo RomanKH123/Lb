@@ -1,0 +1,11 @@
+D:\tyi\Demka_0.1\Demka_0.1\bin\Debug\Demka_0.1.exe.config
+D:\tyi\Demka_0.1\Demka_0.1\bin\Debug\Demka_0.1.exe
+D:\tyi\Demka_0.1\Demka_0.1\bin\Debug\Demka_0.1.pdb
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.csproj.AssemblyReference.cache
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.csproj.SuggestedBindingRedirects.cache
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0._1.Form1.resources
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0._1.Properties.Resources.resources
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.csproj.GenerateResource.cache
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.csproj.CoreCompileInputs.cache
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.exe
+D:\tyi\Demka_0.1\Demka_0.1\obj\Debug\Demka_0.1.pdb
